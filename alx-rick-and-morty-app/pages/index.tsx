@@ -74,6 +74,8 @@
 
 import ErrorBoundary from '@/components/ErrorBoundary';
 import ErrorProneComponent from '@/components/ErrorProneComponent';
+import './sentry.client';
+
 
 const Home: React.FC = () => {
   return (
